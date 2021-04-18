@@ -1,9 +1,9 @@
 const Connection = require('./lib/connection');
-const Api = require('./lib/api');
+const ApiClient = require('./lib/api-client');
 const constants = require('./lib/constants');
 
 module.exports = {
   Connection,
-  Api,
+  ApiClient,
   constants,
 };
