@@ -1,0 +1,8 @@
+{
+    "name": "chia-api",
+    "version": "1.0.0",
+    "dependencies": {
+        "json-bigint": "^1.0.0",
+        "ws": "^7.4.4"
+    }
+}
