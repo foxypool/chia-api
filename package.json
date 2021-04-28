@@ -1,8 +1,15 @@
 {
     "name": "chia-api",
     "version": "1.0.0",
+    "repository": "https://github.com/felixbrucker/chia-api.git",
+    "bugs": "https://github.com/felixbrucker/chia-api/issues",
+    "license": "GPL-3.0",
     "dependencies": {
         "json-bigint": "^1.0.0",
         "ws": "^7.4.4"
+    },
+    "main": "index.js",
+    "engines": {
+        "node": ">=12.0.0"
     }
 }
