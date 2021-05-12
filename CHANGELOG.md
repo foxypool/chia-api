@@ -1,3 +1,8 @@
+1.1.0 / 2021-05-12
+==================
+
+* Add support for subscribing to new signage points.
+
 1.0.1 / 2021-05-06
 ==================
 
