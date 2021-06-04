@@ -1,3 +1,8 @@
+1.4.0 / 2021-06-05
+==================
+
+* Add some more wallet and full node api methods: `sendMultiTransaction`, `pushTx`, `getCoinRecordsByPuzzleHash`, `getCoinRecordsByPuzzleHashes`, `getCoinRecordByName`, `getRecentEndOfSubSlot`, `getRecentSignagePoint`
+
 1.3.0 / 2021-05-23
 ==================
 
