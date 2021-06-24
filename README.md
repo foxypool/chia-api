@@ -19,7 +19,7 @@ const { Connection, constants, ApiClient } = require('chia-api');
   conn.onMessage((message) => {
     console.log(message);
   });
-  conn.addService(constants.SERVICE.walletUi);
+  conn.addService(constants.SERVICE().walletUi);
   const fullNode = new ApiClient.FullNode({ connection: conn, origin: 'my-cool-service' });
   await fullNode.init();
   const blockchainState = await fullNode.getBlockchainState();
