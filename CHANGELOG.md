@@ -1,3 +1,8 @@
+2.0.0 / 2021-06-24
+==================
+
+* Add support for other coins via `SERVICE(coin)` and `coin` config option for the `Connection`
+
 1.5.0 / 2021-06-24
 ==================
 
