@@ -6,7 +6,7 @@
     "license": "GPL-3.0",
     "dependencies": {
         "json-bigint": "^1.0.0",
-        "ws": "^7.5.0"
+        "ws": "^8.0.0"
     },
     "main": "index.js",
     "engines": {
