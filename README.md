@@ -34,8 +34,8 @@ const { Connection, constants, ApiClient } = require('chia-api');
 
 ## Changelog
 
-A Changelog can be found [here](https://github.com/felixbrucker/chia-api/blob/master/CHANGELOG.md)
+A Changelog can be found [here](https://github.com/foxypool/chia-api/blob/master/CHANGELOG.md)
 
 ## License
 
-GNU GPLv3 (see [LICENSE](https://github.com/felixbrucker/chia-api/blob/master/LICENSE))
+GNU GPLv3 (see [LICENSE](https://github.com/foxypool/chia-api/blob/master/LICENSE))

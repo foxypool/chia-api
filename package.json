@@ -1,8 +1,8 @@
 {
     "name": "chia-api",
     "version": "2.1.0",
-    "repository": "https://github.com/felixbrucker/chia-api.git",
-    "bugs": "https://github.com/felixbrucker/chia-api/issues",
+    "repository": "https://github.com/foxypool/chia-api.git",
+    "bugs": "https://github.com/foxypool/chia-api/issues",
     "license": "GPL-3.0",
     "dependencies": {
         "json-bigint": "^1.0.0",
