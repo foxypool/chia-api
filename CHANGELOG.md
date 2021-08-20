@@ -1,3 +1,8 @@
+2.2.0 / 2021-08-20
+==================
+
+* Use the last 24h for avg network space, same as blockchain state
+
 2.1.0 / 2021-07-16
 ==================
 
