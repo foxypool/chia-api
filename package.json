@@ -1,6 +1,6 @@
 {
     "name": "chia-api",
-    "version": "2.2.0",
+    "version": "2.3.0",
     "repository": "https://github.com/foxypool/chia-api.git",
     "bugs": "https://github.com/foxypool/chia-api/issues",
     "license": "GPL-3.0",
