@@ -1,3 +1,9 @@
+3.0.0 / 2021-11-05
+==================
+
+* Rename plotter service name to `<coin>_plotter`
+* Requires chia >= 1.2.11 or forks with the service name change included
+
 2.4.0 / 2021-11-01
 ==================
 
