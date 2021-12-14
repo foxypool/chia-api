@@ -1,3 +1,9 @@
+3.1.0 / 2021-12-14
+==================
+
+* Add support for `excludeReorged` parameter for `getBlocks()`.
+* Return the best block for a given height if multiple blocks are returned from the full node.
+
 3.0.0 / 2021-11-05
 ==================
 
