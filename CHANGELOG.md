@@ -1,3 +1,8 @@
+3.2.0 / 2022-03-18
+==================
+
+* Add `coinAnnouncements` parameter to `createSignedTransaction()`.
+
 3.1.2 / 2021-12-15
 ==================
 
