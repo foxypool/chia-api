@@ -28,8 +28,7 @@ const { Connection, constants, ApiClient } = require('chia-api');
 
 ## Donate
 
-- ETH: 0xfEc6F48633A7c557b4ac5c37B4519C55CD701BEF
-- BTC: 14rbdLr2YXDkguVaqRKnPftTPX52tnv2x2
+- XCH: xch1063ymlv3saaxkh87h287nc3laelnxss0897xdw6g8zj6yvaa4elslg0xfa
 - PP: https://www.paypal.me/felixbrucker
 
 ## Changelog
