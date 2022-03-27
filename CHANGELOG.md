@@ -1,3 +1,12 @@
+3.3.0 / 2022-03-27
+==================
+
+* Add `getTransactions` method to the wallet api.
+* Add `getTransaction` method to the wallet api.
+* Add `getNextAddress` method to the wallet api.
+* Add `getLoggedInFingerprint` method to the wallet api.
+* Add `pushTx` method to the wallet api.
+
 3.2.0 / 2022-03-18
 ==================
 
