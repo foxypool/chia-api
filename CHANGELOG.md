@@ -1,3 +1,8 @@
+3.4.0 / 2022-07-21
+==================
+
+* Add `excludeCoins` parameter to `createSignedTransaction()`.
+
 3.3.0 / 2022-03-27
 ==================
 
