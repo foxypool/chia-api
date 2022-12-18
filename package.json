@@ -1,12 +1,12 @@
 {
     "name": "chia-api",
-    "version": "3.4.0",
+    "version": "3.5.0",
     "repository": "https://github.com/foxypool/chia-api.git",
     "bugs": "https://github.com/foxypool/chia-api/issues",
     "license": "GPL-3.0",
     "dependencies": {
         "json-bigint": "^1.0.0",
-        "ws": "^8.10.0"
+        "ws": "^8.11.0"
     },
     "main": "index.js",
     "engines": {
