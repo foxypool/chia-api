@@ -1,3 +1,8 @@
+3.6.1 / 2023-09-05
+==================
+
+* Remove unnecessary parameter from `getVersion()`.
+
 3.6.0 / 2023-09-05
 ==================
 
