@@ -1,3 +1,9 @@
+4.0.0 / 2023-12-29
+==================
+
+* Use `CoinSelectionConfig` options for some wallet api calls replacing existing legacy options.
+* Add `selectCoins()` method to wallet api.
+
 3.6.1 / 2023-09-05
 ==================
 
