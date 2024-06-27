@@ -1,3 +1,8 @@
+4.1.0 / 2024-06-27
+==================
+
+* Add `onNewUnfinishedBlock()` method to full node api, requires a full node running 2.4.0 or greater.
+
 4.0.0 / 2023-12-29
 ==================
 
